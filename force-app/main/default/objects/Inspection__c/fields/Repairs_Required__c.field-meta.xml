@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Repairs_Required__c</fullName>
+    <externalId>false</externalId>
+    <label>Repairs Required</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Air Compressor</fullName>
+                <default>false</default>
+                <label>Air Compressor</label>
+            </value>
+            <value>
+                <fullName>Air Lines</fullName>
+                <default>false</default>
+                <label>Air Lines</label>
+            </value>
+            <value>
+                <fullName>Battery</fullName>
+                <default>false</default>
+                <label>Battery</label>
+            </value>
+            <value>
+                <fullName>Belts and Hoses</fullName>
+                <default>false</default>
+                <label>Belts and Hoses</label>
+            </value>
+            <value>
+                <fullName>Body</fullName>
+                <default>false</default>
+                <label>Body</label>
+            </value>
+            <value>
+                <fullName>Brake Accessories</fullName>
+                <default>false</default>
+                <label>Brake Accessories</label>
+            </value>
+            <value>
+                <fullName>Brakes, Parking</fullName>
+                <default>false</default>
+                <label>Brakes, Parking</label>
+            </value>
+            <value>
+                <fullName>Brakes, Service</fullName>
+                <default>false</default>
+                <label>Brakes, Service</label>
+            </value>
+            <value>
+                <fullName>Clutch</fullName>
+                <default>false</default>
+                <label>Clutch</label>
+            </value>
+            <value>
+                <fullName>Coupling Devices</fullName>
+                <default>false</default>
+                <label>Coupling Devices</label>
+            </value>
+            <value>
+                <fullName>Defroster/Heater</fullName>
+                <default>false</default>
+                <label>Defroster/Heater</label>
+            </value>
+            <value>
+                <fullName>Drive Line</fullName>
+                <default>false</default>
+                <label>Drive Line</label>
+            </value>
+            <value>
+                <fullName>Engine</fullName>
+                <default>false</default>
+                <label>Engine</label>
+            </value>
+            <value>
+                <fullName>Exhaust</fullName>
+                <default>false</default>
+                <label>Exhaust</label>
+            </value>
+            <value>
+                <fullName>Fifth Wheel</fullName>
+                <default>false</default>
+                <label>Fifth Wheel</label>
+            </value>
+            <value>
+                <fullName>Fluid Levels</fullName>
+                <default>false</default>
+                <label>Fluid Levels</label>
+            </value>
+            <value>
+                <fullName>Frame and Assembly</fullName>
+                <default>false</default>
+                <label>Frame and Assembly</label>
+            </value>
+            <value>
+                <fullName>Front Axle</fullName>
+                <default>false</default>
+                <label>Front Axle</label>
+            </value>
+            <value>
+                <fullName>Fuel Tanks</fullName>
+                <default>false</default>
+                <label>Fuel Tanks</label>
+            </value>
+            <value>
+                <fullName>Generator</fullName>
+                <default>false</default>
+                <label>Generator</label>
+            </value>
+            <value>
+                <fullName>Horn</fullName>
+                <default>false</default>
+                <label>Horn</label>
+            </value>
+            <value>
+                <fullName>Lights Head, Stop,Tail, Dash, Turn</fullName>
+                <default>false</default>
+                <label>Lights Head, Stop,Tail, Dash, Turn</label>
+            </value>
+            <value>
+                <fullName>Mirrors</fullName>
+                <default>false</default>
+                <label>Mirrors</label>
+            </value>
+            <value>
+                <fullName>Muffler</fullName>
+                <default>false</default>
+                <label>Muffler</label>
+            </value>
+            <value>
+                <fullName>Oil Level</fullName>
+                <default>false</default>
+                <label>Oil Level</label>
+            </value>
+            <value>
+                <fullName>Radiator Level</fullName>
+                <default>false</default>
+                <label>Radiator Level</label>
+            </value>
+            <value>
+                <fullName>Rear End</fullName>
+                <default>false</default>
+                <label>Rear End</label>
+            </value>
+            <value>
+                <fullName>Reflectors</fullName>
+                <default>false</default>
+                <label>Reflectors</label>
+            </value>
+            <value>
+                <fullName>Safety Equipment</fullName>
+                <default>false</default>
+                <label>Safety Equipment</label>
+            </value>
+            <value>
+                <fullName>Starter</fullName>
+                <default>false</default>
+                <label>Starter</label>
+            </value>
+            <value>
+                <fullName>Steering</fullName>
+                <default>false</default>
+                <label>Steering</label>
+            </value>
+            <value>
+                <fullName>Suspension System</fullName>
+                <default>false</default>
+                <label>Suspension System</label>
+            </value>
+            <value>
+                <fullName>Tire Chains</fullName>
+                <default>false</default>
+                <label>Tire Chains</label>
+            </value>
+            <value>
+                <fullName>Transmission</fullName>
+                <default>false</default>
+                <label>Transmission</label>
+            </value>
+            <value>
+                <fullName>Trip Recorder</fullName>
+                <default>false</default>
+                <label>Trip Recorder</label>
+            </value>
+            <value>
+                <fullName>Wheels and Rims</fullName>
+                <default>false</default>
+                <label>Wheels and Rims</label>
+            </value>
+            <value>
+                <fullName>Windows</fullName>
+                <default>false</default>
+                <label>Windows</label>
+            </value>
+            <value>
+                <fullName>Windshield Wipers</fullName>
+                <default>false</default>
+                <label>Windshield Wipers</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>10</visibleLines>
+</CustomField>
