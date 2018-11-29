@@ -54,7 +54,7 @@
     <enableStreamingApi>false</enableStreamingApi>
     <label>Vehicle</label>
     <nameField>
-        <label>Vehicle Name</label>
+        <label>Vehicle ID</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>

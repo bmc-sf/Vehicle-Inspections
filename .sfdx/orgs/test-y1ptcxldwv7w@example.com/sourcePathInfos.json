@@ -32,14 +32,14 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543501867012,
             "changeTime": 1543501867012,
-            "contentHash": "ef1de36198ced999db436e3d62c0fdab7a06879c"
+            "contentHash": "ef1de36198ced999db436e3d62c0fdab7a06879c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -179,14 +179,14 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\Vehicle__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\Vehicle__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2118,
-            "modifiedTime": 1543414664518,
-            "changeTime": 1543414664518,
-            "contentHash": "1c8947c88652a4a47688155d819b6f79515c5b07",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 2116,
+            "modifiedTime": 1543530193793,
+            "changeTime": 1543530193793,
+            "contentHash": "7517322e98b146dfcec96a008f14e8f2f146d50c"
         }
     ],
     [
@@ -231,27 +231,27 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\layouts\\Vehicle__c-Vehicle Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\layouts\\Vehicle__c-Vehicle Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 3283,
-            "modifiedTime": 1543453000278,
-            "changeTime": 1543453000278,
-            "contentHash": "50f2579a476fe6e97d7af96a4c998cd01703fa86",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 3831,
+            "modifiedTime": 1543530193827,
+            "changeTime": 1543530193827,
+            "contentHash": "60883a3b657ef0c217e49fdf9a54e60f5c4d4010"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\layouts\\Inspection__c-Inspection Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\layouts\\Inspection__c-Inspection Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 7328,
             "modifiedTime": 1543501867031,
             "changeTime": 1543501867031,
-            "contentHash": "864c3b5e534d9c89dc007a12f4faec9cdef9cfe3"
+            "contentHash": "864c3b5e534d9c89dc007a12f4faec9cdef9cfe3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -287,10 +287,10 @@
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8581,
-            "modifiedTime": 1543501867103,
-            "changeTime": 1543501867103,
-            "contentHash": "ab7d281b4fb5c97d5c256ea24f20c17da1ccb32c"
+            "size": 9221,
+            "modifiedTime": 1543530193849,
+            "changeTime": 1543530193849,
+            "contentHash": "2ccc4b7ee3309f98307ac5b20670565637045d6b"
         }
     ],
     [
@@ -300,10 +300,10 @@
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8581,
-            "modifiedTime": 1543501867129,
-            "changeTime": 1543501867129,
-            "contentHash": "ab7d281b4fb5c97d5c256ea24f20c17da1ccb32c"
+            "size": 9221,
+            "modifiedTime": 1543530193867,
+            "changeTime": 1543530193867,
+            "contentHash": "2ccc4b7ee3309f98307ac5b20670565637045d6b"
         }
     ],
     [
@@ -313,10 +313,10 @@
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 22785,
-            "modifiedTime": 1543501867196,
-            "changeTime": 1543501867196,
-            "contentHash": "c39c55829efc0f90c810479cd4fc60e930fb83c9"
+            "size": 23425,
+            "modifiedTime": 1543530193922,
+            "changeTime": 1543530193922,
+            "contentHash": "df13856b12f292ddff42f14a52d1574708dbb88d"
         }
     ],
     [
@@ -326,10 +326,10 @@
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8919,
-            "modifiedTime": 1543501867222,
-            "changeTime": 1543501867222,
-            "contentHash": "6956e6c2fb5aa0b6f8c953d1b9cfd8104d6e670a"
+            "size": 9559,
+            "modifiedTime": 1543530193935,
+            "changeTime": 1543530193935,
+            "contentHash": "11a2d989f41b57e3a1b48388be6f5d6549b335e3"
         }
     ],
     [
@@ -361,14 +361,14 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543501867004,
             "changeTime": 1543501867004,
-            "contentHash": "a670bf3cf0df6d2c2e289cfe449bc20198b8e543"
+            "contentHash": "a670bf3cf0df6d2c2e289cfe449bc20198b8e543",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -400,14 +400,14 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields",
         {
+            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1543453000271,
-            "changeTime": 1543453000271,
-            "contentHash": "0197c7941b3b88928db99772b38fae2998795c41",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1543530193814,
+            "changeTime": 1543530193814,
+            "contentHash": "17cc0c1b9685dc376df2f07243254cf22bab2a62"
         }
     ],
     [
@@ -712,79 +712,131 @@
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields\\Repairs_Required_Trailer__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields\\Repairs_Required_Trailer__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3387,
             "modifiedTime": 1543501867002,
             "changeTime": 1543501867002,
-            "contentHash": "96308ce2c01a0b1f5fd789da4766c2a760c3ef37"
+            "contentHash": "96308ce2c01a0b1f5fd789da4766c2a760c3ef37",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields\\Repairs_Required_Truck__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Inspection__c\\fields\\Repairs_Required_Truck__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 7379,
             "modifiedTime": 1543501867005,
             "changeTime": 1543501867005,
-            "contentHash": "bcef9d096b1847748859ccab71fd5437198dd795"
+            "contentHash": "bcef9d096b1847748859ccab71fd5437198dd795",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections\\Vehicles_with_Inspections_0Ht.report-meta.xml",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections\\Vehicles_with_Inspections_0Ht.report-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1779,
             "modifiedTime": 1543501867013,
             "changeTime": 1543501867013,
-            "contentHash": "e4f66c1e81a4af8ec65362f2ec09e0da86033f67"
+            "contentHash": "e4f66c1e81a4af8ec65362f2ec09e0da86033f67",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections.reportFolder-meta.xml",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections.reportFolder-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 337,
             "modifiedTime": 1543501867016,
             "changeTime": 1543501867016,
-            "contentHash": "41ca9929194e535fe3be79e136e976f7c82ab74f"
+            "contentHash": "41ca9929194e535fe3be79e136e976f7c82ab74f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports\\Vehicle_Inspections",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543501867012,
             "changeTime": 1543501867012,
-            "contentHash": "613b3c6f7d2f64319c44bda2b68978c0a62888b4"
+            "contentHash": "613b3c6f7d2f64319c44bda2b68978c0a62888b4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports",
         {
-            "state": "u",
             "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\reports",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543501867015,
             "changeTime": 1543501867015,
-            "contentHash": "61da0d1437b71f9d1bc5c8712bec9b53070b3a80"
+            "contentHash": "61da0d1437b71f9d1bc5c8712bec9b53070b3a80",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Engine_TYpe__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Engine_TYpe__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 844,
+            "modifiedTime": 1543530193812,
+            "changeTime": 1543530193812,
+            "contentHash": "cf902c66d36e535d96a754cd49a430e026ad672b"
+        }
+    ],
+    [
+        "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Model__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Model__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1160,
+            "modifiedTime": 1543530193813,
+            "changeTime": 1543530193813,
+            "contentHash": "5e018e49016652c3e159ffba6b673bea70f05988"
+        }
+    ],
+    [
+        "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Warranty__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Warranty__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1040,
+            "modifiedTime": 1543530193814,
+            "changeTime": 1543530193814,
+            "contentHash": "0e199721a63badf05668a6dd0b1c2f4f5446eaaf"
+        }
+    ],
+    [
+        "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Year__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\workspace_vscode\\Inspections2\\force-app\\main\\default\\objects\\Vehicle__c\\fields\\Year__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1468,
+            "modifiedTime": 1543530193815,
+            "changeTime": 1543530193815,
+            "contentHash": "fa992ce14f908892ec48bb38001989f20e91f199"
         }
     ]
 ]

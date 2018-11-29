@@ -71,5 +71,5 @@
     <members>Vehicle__c</members>
   </types>
   <version>43.0</version>
-  <fullName>pkg_inspection_app</fullName>
+  <fullName>InspectionsApp</fullName>
 </Package>

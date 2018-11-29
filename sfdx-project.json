@@ -4,14 +4,25 @@
             "path": "force-app",
             "default": true,
             "package": "InspectionsApp",
-            "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionName": "ver 1.1",
+            "versionNumber": "1.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "InspectionsApp2",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0",
     "packageAliases": {
-        "InspectionsApp": "0Ho6A000000fxWNSAY"
+        "InspectionsApp": "0Ho6A000000fxWNSAY",
+        "InspectionsApp@1.0.0-1": "04t6A000003WzBYQA0",
+        "InspectionsApp@1.1.0-1": "04t6A000003WzBiQAK",
+        "InspectionsApp2": "0Ho6A000000fxWSSAY",
+        "InspectionsApp@1.1.0-2": "04t6A000003WzBnQAK"
     }
 }
