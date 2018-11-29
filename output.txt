@@ -1,0 +1,6 @@
+PROJECT PATH                                                              ERROR
+────────────────────────────────────────────────────────────────────────  ──────────────────────────────────────────────────────────────────────
+N/A                                                                       Cannot find folder:Vehicle_Inspections
+force-app\main\default\reports\Vehicle_Inspections.reportFolder-meta.xml  In field: sharedTo - no User named test-y1ptcxldwv7w@example.com found
+force-app\main\default\profiles\Admin.profile-meta.xml                    Unknown user permission: SendExternalEmailAvailable
+force-app\main\default\reports\Vehicle_Inspections.reportFolder-meta.xml  In field: sharedTo - no User named test-y1ptcxldwv7w@example.com found

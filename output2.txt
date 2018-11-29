@@ -1,0 +1,43 @@
+=== Deployed Source
+FULL NAME                                           TYPE               PROJECT PATH
+──────────────────────────────────────────────────  ─────────────────  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Inspections                                         CustomApplication  force-app\main\default\applications\Inspections.app-meta.xml
+Inspections_UtilityBar                              FlexiPage          force-app\main\default\flexipages\Inspections_UtilityBar.flexipage-meta.xml
+Inspection__c-Inspection Layout                     Layout             force-app\main\default\layouts\Inspection__c-Inspection Layout.layout-meta.xml
+Vehicle__c-Vehicle Layout                           Layout             force-app\main\default\layouts\Vehicle__c-Vehicle Layout.layout-meta.xml
+Inspection__c.Above_Defects_Corrected__c            CustomField        force-app\main\default\objects\Inspection__c\fields\Above_Defects_Corrected__c.field-meta.xml
+Inspection__c.Above_Defect_Fixes_Not_Required__c    CustomField        force-app\main\default\objects\Inspection__c\fields\Above_Defect_Fixes_Not_Required__c.field-meta.xml
+Inspection__c.Carrier__c                            CustomField        force-app\main\default\objects\Inspection__c\fields\Carrier__c.field-meta.xml
+Inspection__c.CONDITION_OF_VEHICLE_SATISFACTORY__c  CustomField        force-app\main\default\objects\Inspection__c\fields\CONDITION_OF_VEHICLE_SATISFACTORY__c.field-meta.xml
+Inspection__c.Date_and_Time__c                      CustomField        force-app\main\default\objects\Inspection__c\fields\Date_and_Time__c.field-meta.xml
+Inspection__c.Driver_Initials_Date__c               CustomField        force-app\main\default\objects\Inspection__c\fields\Driver_Initials_Date__c.field-meta.xml
+Inspection__c.Driver_Signature__c                   CustomField        force-app\main\default\objects\Inspection__c\fields\Driver_Signature__c.field-meta.xml
+Inspection__c.Location_State__c                     CustomField        force-app\main\default\objects\Inspection__c\fields\Location_State__c.field-meta.xml
+Inspection__c.Location__c                           CustomField        force-app\main\default\objects\Inspection__c\fields\Location__c.field-meta.xml
+Inspection__c.Mechanic_Signature_Date__c            CustomField        force-app\main\default\objects\Inspection__c\fields\Mechanic_Signature_Date__c.field-meta.xml
+Inspection__c.Mechanic_s_Signature__c               CustomField        force-app\main\default\objects\Inspection__c\fields\Mechanic_s_Signature__c.field-meta.xml
+Inspection__c.Odometer_Begin__c                     CustomField        force-app\main\default\objects\Inspection__c\fields\Odometer_Begin__c.field-meta.xml
+Inspection__c.Odometer_End__c                       CustomField        force-app\main\default\objects\Inspection__c\fields\Odometer_End__c.field-meta.xml
+Inspection__c.Post_Trip_Inspection_Completed__c     CustomField        force-app\main\default\objects\Inspection__c\fields\Post_Trip_Inspection_Completed__c.field-meta.xml
+Inspection__c.Pre_Trip_Inspection_Completed__c      CustomField        force-app\main\default\objects\Inspection__c\fields\Pre_Trip_Inspection_Completed__c.field-meta.xml
+Inspection__c.Remarks__c                            CustomField        force-app\main\default\objects\Inspection__c\fields\Remarks__c.field-meta.xml
+Inspection__c.Repairs_Required_Trailer__c           CustomField        force-app\main\default\objects\Inspection__c\fields\Repairs_Required_Trailer__c.field-meta.xml
+Inspection__c.Repairs_Required_Truck__c             CustomField        force-app\main\default\objects\Inspection__c\fields\Repairs_Required_Truck__c.field-meta.xml
+Inspection__c.Vehicle_ID__c                         CustomField        force-app\main\default\objects\Inspection__c\fields\Vehicle_ID__c.field-meta.xml
+Inspection__c                                       CustomObject       force-app\main\default\objects\Inspection__c\Inspection__c.object-meta.xml
+Inspection__c.All                                   ListView           force-app\main\default\objects\Inspection__c\listViews\All.listView-meta.xml
+Inspection__c.Require_Post_Trip_Inspection          ValidationRule     force-app\main\default\objects\Inspection__c\validationRules\Require_Post_Trip_Inspection.validationRule-meta.xml
+Inspection__c.Require_Pre_Trip_Inspection           ValidationRule     force-app\main\default\objects\Inspection__c\validationRules\Require_Pre_Trip_Inspection.validationRule-meta.xml
+Vehicle__c.Make__c                                  CustomField        force-app\main\default\objects\Vehicle__c\fields\Make__c.field-meta.xml
+Vehicle__c.Truck_Number__c                          CustomField        force-app\main\default\objects\Vehicle__c\fields\Truck_Number__c.field-meta.xml
+Vehicle__c.Vehicle_Type__c                          CustomField        force-app\main\default\objects\Vehicle__c\fields\Vehicle_Type__c.field-meta.xml
+Vehicle__c.All                                      ListView           force-app\main\default\objects\Vehicle__c\listViews\All.listView-meta.xml
+Vehicle__c                                          CustomObject       force-app\main\default\objects\Vehicle__c\Vehicle__c.object-meta.xml
+Admin                                               Profile            force-app\main\default\profiles\Admin.profile-meta.xml
+Custom%3A Marketing Profile                         Profile            force-app\main\default\profiles\Custom%3A Marketing Profile.profile-meta.xml
+Custom%3A Sales Profile                             Profile            force-app\main\default\profiles\Custom%3A Sales Profile.profile-meta.xml
+Custom%3A Support Profile                           Profile            force-app\main\default\profiles\Custom%3A Support Profile.profile-meta.xml
+Vehicle_Inspections\Vehicles_with_Inspections_0Ht   Report             force-app\main\default\reports\Vehicle_Inspections\Vehicles_with_Inspections_0Ht.report-meta.xml
+Vehicle_Inspections                                 ReportFolder       force-app\main\default\reports\Vehicle_Inspections.reportFolder-meta.xml
+Inspection__c                                       CustomTab          force-app\main\default\tabs\Inspection__c.tab-meta.xml
+Vehicle__c                                          CustomTab          force-app\main\default\tabs\Vehicle__c.tab-meta.xml

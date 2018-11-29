@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Model__c</fullName>
+    <externalId>false</externalId>
+    <label>Model</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>FE130</fullName>
+                <default>false</default>
+                <label>FE130</label>
+            </value>
+            <value>
+                <fullName>FE160</fullName>
+                <default>false</default>
+                <label>FE160</label>
+            </value>
+            <value>
+                <fullName>FE180</fullName>
+                <default>false</default>
+                <label>FE180</label>
+            </value>
+            <value>
+                <fullName>Actros</fullName>
+                <default>false</default>
+                <label>Actros</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
