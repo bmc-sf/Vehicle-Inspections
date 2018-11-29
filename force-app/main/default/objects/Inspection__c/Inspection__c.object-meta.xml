@@ -54,9 +54,10 @@
     <enableStreamingApi>false</enableStreamingApi>
     <label>Inspection</label>
     <nameField>
+        <displayFormat>INS-{00000}</displayFormat>
         <label>Inspection Name</label>
         <trackHistory>false</trackHistory>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Inspections</pluralLabel>
     <searchLayouts/>
