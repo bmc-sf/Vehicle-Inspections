@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Repairs_Required_Trailer__c</fullName>
+    <externalId>false</externalId>
+    <label>Repairs Required - Trailer</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Brake Connections</fullName>
+                <default>false</default>
+                <label>Brake Connections</label>
+            </value>
+            <value>
+                <fullName>Brakes</fullName>
+                <default>false</default>
+                <label>Brakes</label>
+            </value>
+            <value>
+                <fullName>Coupling Devices</fullName>
+                <default>false</default>
+                <label>Coupling Devices</label>
+            </value>
+            <value>
+                <fullName>Coupling (King) Pin</fullName>
+                <default>false</default>
+                <label>Coupling (King) Pin</label>
+            </value>
+            <value>
+                <fullName>Doors</fullName>
+                <default>false</default>
+                <label>Doors</label>
+            </value>
+            <value>
+                <fullName>Hitch</fullName>
+                <default>false</default>
+                <label>Hitch</label>
+            </value>
+            <value>
+                <fullName>Landing Gear</fullName>
+                <default>false</default>
+                <label>Landing Gear</label>
+            </value>
+            <value>
+                <fullName>Lights - All</fullName>
+                <default>false</default>
+                <label>Lights - All</label>
+            </value>
+            <value>
+                <fullName>Reflectors/Reflective Tape</fullName>
+                <default>false</default>
+                <label>Reflectors/Reflective Tape</label>
+            </value>
+            <value>
+                <fullName>Roof</fullName>
+                <default>false</default>
+                <label>Roof</label>
+            </value>
+            <value>
+                <fullName>Suspension System</fullName>
+                <default>false</default>
+                <label>Suspension System</label>
+            </value>
+            <value>
+                <fullName>Straps</fullName>
+                <default>false</default>
+                <label>Straps</label>
+            </value>
+            <value>
+                <fullName>Tarpaulin</fullName>
+                <default>false</default>
+                <label>Tarpaulin</label>
+            </value>
+            <value>
+                <fullName>Tires</fullName>
+                <default>false</default>
+                <label>Tires</label>
+            </value>
+            <value>
+                <fullName>Wheels and Rims</fullName>
+                <default>false</default>
+                <label>Wheels and Rims</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>10</visibleLines>
+</CustomField>
