@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Inspections</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Inspections_UtilityBar</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Inspection__c-Inspection Layout</members>
+    <members>Vehicle__c-Vehicle Layout</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Inspection__c.Above_Defect_Fixes_Not_Required__c</members>
+    <members>Inspection__c.Above_Defects_Corrected__c</members>
+    <members>Inspection__c.CONDITION_OF_VEHICLE_SATISFACTORY__c</members>
+    <members>Inspection__c.Carrier__c</members>
+    <members>Inspection__c.Date_and_Time__c</members>
+    <members>Inspection__c.Driver_Initials_Date__c</members>
+    <members>Inspection__c.Driver_Signature__c</members>
+    <members>Inspection__c.Location_State__c</members>
+    <members>Inspection__c.Location__c</members>
+    <members>Inspection__c.Mechanic_Signature_Date__c</members>
+    <members>Inspection__c.Mechanic_s_Signature__c</members>
+    <members>Inspection__c.Odometer_Begin__c</members>
+    <members>Inspection__c.Odometer_End__c</members>
+    <members>Inspection__c.Post_Trip_Inspection_Completed__c</members>
+    <members>Inspection__c.Pre_Trip_Inspection_Completed__c</members>
+    <members>Inspection__c.Remarks__c</members>
+    <members>Inspection__c.Repairs_Required_Trailer__c</members>
+    <members>Inspection__c.Repairs_Required_Truck__c</members>
+    <members>Inspection__c.Vehicle_ID__c</members>
+    <members>Vehicle__c.Make__c</members>
+    <members>Vehicle__c.Truck_Number__c</members>
+    <members>Vehicle__c.Vehicle_Type__c</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Inspection__c</members>
+    <members>Vehicle__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>Inspection__c.All</members>
+    <members>Vehicle__c.All</members>
+  </types>
+  <types>
+    <name>ValidationRule</name>
+    <members>Inspection__c.Require_Post_Trip_Inspection</members>
+    <members>Inspection__c.Require_Pre_Trip_Inspection</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>Report</name>
+    <members>Vehicle_Inspections</members>
+    <members>Vehicle_Inspections/Vehicles_with_Inspections_0Ht</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Inspection__c</members>
+    <members>Vehicle__c</members>
+  </types>
+  <version>43.0</version>
+  <fullName>pkg_inspection_app</fullName>
+</Package>
